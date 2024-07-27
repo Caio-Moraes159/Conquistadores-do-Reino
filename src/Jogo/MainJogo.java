@@ -1,8 +1,3 @@
-/*
- * Caio Caminitti de Moraes - 2146079
- * Leonardo Ferreira Colmanetti de Almeida Lima - 2131526
- */
-
 package Jogo;
 
 import java.util.Scanner;
